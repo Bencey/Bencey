@@ -16,7 +16,7 @@
 
 - 📝 I regulary write articles on [https://bencey.co.nz](https://bencey.co.nz)
 
-- 💬 Ask me about **Discord API,**
+- 💬 Ask me about **Discord API, Discord Functionality, Anything Technology Related**
 
 - 📫 How to reach me 
 
