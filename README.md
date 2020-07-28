@@ -1,6 +1,6 @@
 *Disclaimner: This page is currently a Work In Progess and will be changed later down the line*
 
-[![Logo](https://media.discordapp.net/attachments/721517111670734878/729107877108777081/Tier3Tech4x.png?width=663&height=666)](https://bencey.co.nz)
+[![Logo](https://media.discordapp.net/attachments/721517111670734878/729107836214444042/Tier3Tech.png)](https://bencey.co.nz)
 
 Welcome, my name is Benjamin, I am an IT Freelancer and the Founder of Tier III Technologies which can be found [Here](https://tier3tech.co.nz).
 
