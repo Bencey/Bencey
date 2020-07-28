@@ -20,7 +20,7 @@
 
 - 📫 How to reach me 
 
-**[admin@bencey.co.nz](mailto:admin@bencey.co.nz)** 
+**Email: [admin@bencey.co.nz](mailto:admin@bencey.co.nz)** 
 
 **Phone:** +64 0272387426 
 
