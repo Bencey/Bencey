@@ -2,10 +2,6 @@
 <h1 align="center">
 <img src='https://media.discordapp.net/attachments/721517111670734878/729107836214444042/Tier3Tech.png'>
 </h1>
-Welcome, my name is Benjamin, 
-
-I have created and been running a Technology blog over [Here](https://bencey.co.nz) where I create different kinds of content such as guides, update posts and sometimes talk about recent events such as security issues. 
-
 
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
 <h3 align="center">I am an IT Freelancer and the Founder of Tier III Technologies which can be found [Here](https://tier3tech.co.nz). From New Zealand</h3>
