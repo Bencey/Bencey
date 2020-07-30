@@ -8,17 +8,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bencey" alt="bencey" /> </p>
 
-- 🔭 I’m currently working on [Bencey's Blog](https://github.com/Bencey/site)
 
-- 🌱 I’m currently learning **Systems Administration, LUA, Cyber Security**
+Hello Everyone, I am currently a self taught IT Technician from New Zealand. I maintain a blog over at [bencey.co.nz](https://bencey.co.nz). I am currently focusing on learning more in the field of Systems Administration.
 
-- 👨‍💻 All of my projects are available at [https://resume.bencey.co.nz](https://resume.bencey.co.nz)
 
-- 📝 I regulary write articles on [https://bencey.co.nz](https://bencey.co.nz)
 
-- 💬 Ask me about **Discord API, Discord Functionality, Anything Technology Related**
-
-- 📫 How to reach me 
+## 📫 How to reach me 
 
 **Email: [admin@bencey.co.nz](mailto:admin@bencey.co.nz)** 
 
@@ -42,6 +37,7 @@
 ![](https://img.shields.io/badge/Tools-NodeJS-green)
 ![](https://img.shields.io/badge/Tools-Docker-green)
 ![](https://img.shields.io/badge/Tools-nginx-green)
+
 
 <p align="center">   
   <img src="https://github-readme-stats.vercel.app/api?username=bencey&show_icons=true" alt="bencey" /> </p>
