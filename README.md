@@ -1,4 +1,7 @@
 *Disclaimner: This page is currently a Work In Progess and will be changed later down the line*
+
+[![Header](https://github.com/Bencey/Bencey/banner2.gif)](https://bencey.co.nz)
+
 <h1 align="center">
 <img src='https://media.discordapp.net/attachments/721517111670734878/729107836214444042/Tier3Tech.png'>
 </h1>
