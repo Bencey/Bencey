@@ -1,9 +1,5 @@
 [![Header](https://github.com/Bencey/Bencey/blob/master/banner2.gif)](https://bencey.co.nz)
 
-<h1 align="center">
-<img src='https://media.discordapp.net/attachments/721517111670734878/729107836214444042/Tier3Tech.png'>
-</h1>
-
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
 <h3 align="center">I am an IT Freelancer and the Founder of Tier III Technologies which can be found [Here](https://tier3tech.co.nz). From New Zealand</h3>
 
