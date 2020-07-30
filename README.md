@@ -1,11 +1,5 @@
 [![Header](https://github.com/Bencey/Bencey/blob/master/banner2.gif)](https://bencey.co.nz)
 
-<h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">I am an IT Freelancer and the Founder of Tier III Technologies which can be found [Here](https://tier3tech.co.nz). From New Zealand</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bencey" alt="bencey" /> </p>
-
-
 Hello Everyone, I am currently a self taught IT Technician from New Zealand. I maintain a blog over at [bencey.co.nz](https://bencey.co.nz). I am currently focusing on learning more in the field of Systems Administration. 
 
 
