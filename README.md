@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bencey" alt="bencey" /> </p>
 
 
-Hello Everyone, I am currently a self taught IT Technician from New Zealand. I maintain a blog over at [bencey.co.nz](https://bencey.co.nz). I am currently focusing on learning more in the field of Systems Administration.
+Hello Everyone, I am currently a self taught IT Technician from New Zealand. I maintain a blog over at [bencey.co.nz](https://bencey.co.nz). I am currently focusing on learning more in the field of Systems Administration. 
 
 
 
@@ -20,6 +20,10 @@ Hello Everyone, I am currently a self taught IT Technician from New Zealand. I m
 **Phone:** +64 0272387426 
 
 **Discord:** Bencey_#8587
+
+Twitter: <a href="https://twitter.com/bencey4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bencey4" height="20" width="20" /></a>
+
+Linked In: <a href="https://linkedin.com/in/benjamin-durham-324275178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-durham-324275178" height="20" width="20" /></a>
 
 ## 🔧 Technologies & Tools
 
@@ -40,9 +44,9 @@ Hello Everyone, I am currently a self taught IT Technician from New Zealand. I m
 
 
 <p align="center">   
-  <img src="https://github-readme-stats.vercel.app/api?username=bencey&show_icons=true" alt="bencey" /> </p>
-
-<p align="center">
-<a href="https://twitter.com/bencey4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bencey4" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/benjamin-durham-324275178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-durham-324275178" height="20" width="20" /></a>
-</p>
+  <a href="https://github.com/Bencey/Bencey">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bencey&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Bencey/Bencey">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bencey&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bencey's GitHub Stats" />
+</a>
