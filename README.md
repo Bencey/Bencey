@@ -34,6 +34,19 @@ Linked In: <a href="https://linkedin.com/in/benjamin-durham-324275178" target="b
 ![](https://img.shields.io/badge/Tools-nginx-green)
 
 
+## Hobbies
+
+* Home Automation
+
+* Gaming
+
+* Content Creation
+
+* Systems Administration
+
+* Docker 
+
+
 <p align="center">   
   <a href="https://github.com/Bencey/Bencey">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bencey&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
