@@ -18,7 +18,7 @@ Linked In: <a href="https://linkedin.com/in/benjamin-durham-324275178" target="b
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-LInux-red)
+![](https://img.shields.io/badge/OS-Linux-red)
 ![](https://img.shields.io/badge/OS-Windows-red)
 ![](https://img.shields.io/badge/OS-MacOS-red)
 
