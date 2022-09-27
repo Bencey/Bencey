@@ -16,6 +16,10 @@ Twitter: <a href="https://twitter.com/bencey4" target="blank"><img align="center
 
 Linked In: <a href="https://linkedin.com/in/benjamin-durham-324275178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-durham-324275178" height="20" width="20" /></a>
 
+![Metrics](https://github.com/bencey/bencey/blob/master/github-metrics.svg)
+
+
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-red)
@@ -51,6 +55,4 @@ Linked In: <a href="https://linkedin.com/in/benjamin-durham-324275178" target="b
   <a href="https://github.com/Bencey/Bencey">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bencey&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Bencey/Bencey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bencey&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bencey's GitHub Stats" />
-</a>
+  
